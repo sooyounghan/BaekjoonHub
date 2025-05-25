@@ -1,2 +1,3 @@
-# Data-Structure-and-Algorithm-BackJoon-Coding-Test-
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+-----
+### 자료구조 & 알고리즘 복습용 
+-----
